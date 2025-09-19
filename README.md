@@ -46,3 +46,5 @@ JavaScript: Para a lógica de requisições à API, renderização da lista de m
 ✨ Reprodução Contínua: Proporciona uma experiência de audição ininterrupta.
 
 ✨ Código Modular: A lógica é dividida em blocos claros para facilitar a manutenção e futuras expansões.
+
+🔗 **Acesse o aplicativo de música:** [Clique aqui para acessar!](https://jogo-cartas-vek0.onrender.com)

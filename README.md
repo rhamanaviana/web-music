@@ -48,3 +48,7 @@ JavaScript: Para a lógica de requisições à API, renderização da lista de m
 ✨ Código Modular: A lógica é dividida em blocos claros para facilitar a manutenção e futuras expansões.
 
 🔗 **Acesse o aplicativo de música:** [Clique aqui para acessar!](https://app-music-0hjz.onrender.com)
+
+# 🎧 API de Conexão
+
+Para navegar nas músicas, conecte-se à API através do link: 🔗 https://server-app-music.onrender.com

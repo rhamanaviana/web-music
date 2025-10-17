@@ -51,4 +51,4 @@ JavaScript: Para a lógica de requisições à API, renderização da lista de m
 
 # 🎧 API de Conexão
 
-Para navegar nas músicas, conecte-se à API através do link: 🔗 https://server-app-music.onrender.com
+Cole este link no aplicativo para ouvir as músicas: 🔗 https://server-app-music.onrender.com
